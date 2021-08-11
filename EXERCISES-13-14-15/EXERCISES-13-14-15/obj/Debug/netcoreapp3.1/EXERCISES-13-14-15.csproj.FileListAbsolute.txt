@@ -1,0 +1,12 @@
+/Users/Maronda/Projects/EXERCISES-13-14-15/EXERCISES-13-14-15/bin/Debug/netcoreapp3.1/EXERCISES-13-14-15.deps.json
+/Users/Maronda/Projects/EXERCISES-13-14-15/EXERCISES-13-14-15/bin/Debug/netcoreapp3.1/EXERCISES-13-14-15.runtimeconfig.json
+/Users/Maronda/Projects/EXERCISES-13-14-15/EXERCISES-13-14-15/bin/Debug/netcoreapp3.1/EXERCISES-13-14-15.runtimeconfig.dev.json
+/Users/Maronda/Projects/EXERCISES-13-14-15/EXERCISES-13-14-15/bin/Debug/netcoreapp3.1/EXERCISES-13-14-15.dll
+/Users/Maronda/Projects/EXERCISES-13-14-15/EXERCISES-13-14-15/bin/Debug/netcoreapp3.1/EXERCISES-13-14-15.pdb
+/Users/Maronda/Projects/EXERCISES-13-14-15/EXERCISES-13-14-15/obj/Debug/netcoreapp3.1/EXERCISES-13-14-15.csproj.AssemblyReference.cache
+/Users/Maronda/Projects/EXERCISES-13-14-15/EXERCISES-13-14-15/obj/Debug/netcoreapp3.1/EXERCISES-13-14-15.AssemblyInfoInputs.cache
+/Users/Maronda/Projects/EXERCISES-13-14-15/EXERCISES-13-14-15/obj/Debug/netcoreapp3.1/EXERCISES-13-14-15.AssemblyInfo.cs
+/Users/Maronda/Projects/EXERCISES-13-14-15/EXERCISES-13-14-15/obj/Debug/netcoreapp3.1/EXERCISES-13-14-15.csproj.CoreCompileInputs.cache
+/Users/Maronda/Projects/EXERCISES-13-14-15/EXERCISES-13-14-15/obj/Debug/netcoreapp3.1/EXERCISES-13-14-15.dll
+/Users/Maronda/Projects/EXERCISES-13-14-15/EXERCISES-13-14-15/obj/Debug/netcoreapp3.1/EXERCISES-13-14-15.pdb
+/Users/Maronda/Projects/EXERCISES-13-14-15/EXERCISES-13-14-15/obj/Debug/netcoreapp3.1/EXERCISES-13-14-15.genruntimeconfig.cache
